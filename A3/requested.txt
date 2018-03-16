@@ -1,0 +1,7 @@
+py26-numpy
+py27-ipython
+py27-matplotlib
+py27-numpy
+py27-scipy
+python26
+python27
